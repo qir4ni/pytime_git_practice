@@ -1,5 +1,5 @@
 # 1 Clone this repo to your local folder use the following link
-    - https://gitlab.com/devops-class4781421/pytime_git_practice.git
+    - https://github.com/dev-paplix/pytime_git_practice.git
 
 # 2 copy .gitignore file into the project you did last session
 
