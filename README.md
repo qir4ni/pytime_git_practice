@@ -7,6 +7,6 @@
 
 # 4 create new directory in your local machine and name it to MY_DEVOPS_GIT
 
-# 5 Pull the the git from your main gitdevops branch
+# 5 Pull the the git from your main branch
 
-# 6 push the code to the main branch
+# 6 push the code to the gitdevops branch
