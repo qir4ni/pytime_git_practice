@@ -3,7 +3,7 @@
 
 # 2 copy .gitignore file into the project you did last session
 
-# 3 push the project into the main gitdevops branch
+# 3 push the project into the main branch
 
 # 4 create new directory in your local machine and name it to MY_DEVOPS_GIT
 
