@@ -25,7 +25,7 @@ pipeline {
                     . .venv/bin/activate
                     pip install DateTime
                     ls
-                    python3 py_text.py
+                    pwd
                     '''
                 sh 'python3 py_text.py'
             }
