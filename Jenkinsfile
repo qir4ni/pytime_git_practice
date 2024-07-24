@@ -24,10 +24,8 @@ pipeline {
                     python3 -m venv .venv
                     . .venv/bin/activate
                     pip install DateTime
-                    ls
-                    pwd
+                    python3 py_test.py
                     '''
-                sh 'python3 py_text.py'
             }
         }
         stage('Deliver') {
