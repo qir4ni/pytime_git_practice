@@ -9,7 +9,7 @@ pipeline {
                 sh '''
                 apt update
                 apt upgrade -y
-                apt-get install python3.11.4 -y
+                apt-get install python3.10 -y
                 '''
             }
         }
@@ -17,7 +17,7 @@ pipeline {
             steps {
                 sh 'apt update'
                 sh 'apt upgrade -y'
-                sh 'apt-get install python3.11.4 -y'
+                sh 'apt-get install python3.10 -y'
                 sh 'apt-get install python3-venv -y'
                 sh 'apt-get install python3-pip -y'
                 sh 'python3 -m venv .venv'
